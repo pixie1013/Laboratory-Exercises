@@ -1,0 +1,3 @@
+NAME: Trixie Nicole Organiza
+COURSE: BSCS 1
+SUBJECT: CMSC 28
