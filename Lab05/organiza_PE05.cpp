@@ -109,7 +109,7 @@ void displayResults(int max, int min, float average, float variance, float stdde
     cout << "\t\tMaximum: " << max << endl;
     cout << "\t\tMinimum: " << min << endl;
     cout << "\t\tAverage: " << average << endl;
-    cout << "\t\tVariance: " << variance << endl;
     cout << "\t\tStandard Deviation: " << stddev << endl;
+    cout << "\t\tVariance: " << variance << endl;
     cout << "\t\t----------------------------------------------------------";
 }

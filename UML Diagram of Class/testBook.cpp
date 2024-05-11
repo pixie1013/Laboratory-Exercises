@@ -2,12 +2,13 @@
 #include "Book.h"
 
 using namespace std;
+
+//FUNCTION DECLARATION
 void displayHeader();
 
 int main(){
     string title, author, ISBN, publisher;
     displayHeader();
-    // User-input
     cout << "\n\t\t----------------------------------------------------------\n";
     cout << "\t\tEnter the title of the book: ";
     getline(cin, title);
