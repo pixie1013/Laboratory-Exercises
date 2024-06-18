@@ -1,3 +1,4 @@
 NAME: Trixie Nicole Organiza
-COURSE: BSCS 1
-SUBJECT: CMSC 28
+COURSE SUBJECT: CMSC 28
+
+This repository contains all laboratory exercises about OOP in C++.
